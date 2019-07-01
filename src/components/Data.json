@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Vu Thanh Ha",
+        "tel": "0984735879",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Test",
+        "tel": "34738478",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Ahihi",
+        "tel": "23423423423",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Datee",
+        "tel": "234234234",
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name": "Tataaa",
+        "tel": "23748937984",
+        "permission": 2
+    }
+]
